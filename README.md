@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-🚀 Sou estudante de Ciências da Computação (3º período) na UniRitter, com foco em desenvolvimento de software e aprendizado contínuo.
+🚀 Sou estudante de Ciências da Computação (3º período) na UniRitter, com foco em desenvolvimento de software!
 
 
 ✅ Tenho inglês intermediário e estou em busca de um estágio para ganhar experiência prática e contribuir com projetos reais.
