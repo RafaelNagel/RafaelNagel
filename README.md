@@ -7,6 +7,7 @@
 ✅ Tenho inglês intermediário e estou em busca de um estágio para ganhar experiência prática e contribuir com projetos reais.
 
 💡 Gosto de criar soluções limpas e funcionais, explorando novas tecnologias para entregar resultados de qualidade.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
