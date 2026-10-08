@@ -7,9 +7,9 @@ I'm currently focused on building scalable applications with **Java** and **Spri
 ## 🚀 About Me
 
 * 💻 Backend Developer focused on Java
-* 🌱 Currently learning Spring Security, Software Architecture and Design Patterns
+* 🌱 Currently learning Spring AI and Software Architecture
 * 📚 Constantly improving through personal projects and continuous study
-* 🎯 Looking for an internship or Junior Backend Developer opportunity
+* 🎯 Looking for an internship or Junior FullStack Developer opportunity
 
 ## 🛠️ Technologies
 
@@ -24,6 +24,7 @@ I'm currently focused on building scalable applications with **Java** and **Spri
 
 * Spring Boot
 * Spring Security
+* Spring AI
 * JPA / Hibernate
 * REST APIs
 
